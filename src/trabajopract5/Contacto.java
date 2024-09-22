@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Un directorio telefónico posee una lista de Contactos de los que interesa conocer su
+DNI, nombre, apellido, ciudad y dirección. Un contacto se empareja con un teléfono tipo Long.
  */
 package trabajopract5;
 

@@ -1,7 +1,13 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+El directorio telefónico posee además las siguientes funcionalidades:
+A. agregarContacto() que permite registrar un nuevo contacto con su respectivo nro. de
+teléfono. Siendo el nro. del teléfono la clave del mismo.
+B. buscarContacto() que en base al nro. de teléfono retorna el Contacto asociado al mismo.
+C. buscarTeléfono() que en base a un apellido nos devuelve un Set<Long> con los números
+de teléfono asociados a dicho apellido.
+D. buscarContactos() que en base a una ciudad nos devuelve un ArrayList con los
+Contactos asociados a dicha ciudad.
+E. borrarContacto() que en base al número de teléfono elimina el contacto del directorio.
  */
 package trabajopract5;
 
